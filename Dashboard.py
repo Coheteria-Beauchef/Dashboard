@@ -13,7 +13,7 @@ BAUD_RATE = 115200
 SERIAL_QUEUE = queue.Queue()
 STOP_THREAD_TRIGGER = False
 
-IMAGEN = "C:/Users/vjere/OneDrive/Escritorio/Coheteria/Dashboard/horizontal.png"
+IMAGEN = "horizontal.png"
 # Variables iniciales
 var1, var2, var3 = 0, 0, 0
 history_var1, history_var2, history_var3 = [], [], []
